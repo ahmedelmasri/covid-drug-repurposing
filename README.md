@@ -11,3 +11,4 @@ Ootology: We used [chebi-light.obo](http://purl.obolibrary.org/obo/chebi/chebi_l
 
 The original file to the MEDLINE Abstracts is (403.3MB) of data. Too big to be uploaded here but here is the [>> link  >>  to download it.](https://drive.google.com/file/d/1xcwUjEbuTVBHjZJ66yfxr_LZr9qFZh4L/view?usp=sharing).
 
+Got any questions about the experiments, algorithms, analysis, data? Shoot me at email!
