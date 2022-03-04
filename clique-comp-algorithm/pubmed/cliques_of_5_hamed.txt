@@ -1,0 +1,2 @@
+CHEBI5801_hydroxychloroquine|CHEBI3638_chloroquine|CHEBI2955_azithromycin|CHEBI28304_heparin|CHEBI41879_dexamethasone|
+CHEBI5801_hydroxychloroquine|CHEBI3638_chloroquine|CHEBI2955_azithromycin|CHEBI134722_favipiravir|CHEBI23359_colchicine|

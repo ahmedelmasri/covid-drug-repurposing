@@ -1,0 +1,64 @@
+PM Clique:  ['CHEBI23965_estradiol', 'CHEBI50114_estrogen']
+CT Clique:  ['CHEBI23965_estradiol', 'CHEBI50114_estrogen']
+
+PM Clique:  ['CHEBI66919_ruxolitinib', 'CHEBI23359_colchicine']
+CT Clique:  ['CHEBI66919_ruxolitinib', 'CHEBI23359_colchicine']
+
+PM Clique:  ['CHEBI36807_hydrochloride', 'CHEBI77032_bromhexine']
+CT Clique:  ['CHEBI36807_hydrochloride', 'CHEBI77032_bromhexine']
+
+PM Clique:  ['CHEBI85083_sofosbuvir', 'CHEBI82977_daclatasvir']
+CT Clique:  ['CHEBI82977_daclatasvir', 'CHEBI85083_sofosbuvir']
+
+PM Clique:  ['CHEBI6970_mometasone', 'CHEBI50858_corticosteroid']
+CT Clique:  ['CHEBI6970_mometasone', 'CHEBI50858_corticosteroid']
+
+PM Clique:  ['CHEBI6970_mometasone', 'CHEBI50858_corticosteroid']
+CT Clique:  ['CHEBI6970_mometasone', 'CHEBI50858_corticosteroid']
+
+PM Clique:  ['CHEBI72291_cobicistat', 'CHEBI367163_darunavir']
+CT Clique:  ['CHEBI72291_cobicistat', 'CHEBI367163_darunavir']
+
+PM Clique:  ['CHEBI72291_cobicistat', 'CHEBI367163_darunavir']
+CT Clique:  ['CHEBI72291_cobicistat', 'CHEBI367163_darunavir']
+
+PM Clique:  ['CHEBI23965_estradiol', 'CHEBI50114_estrogen']
+CT Clique:  ['CHEBI23965_estradiol', 'CHEBI50114_estrogen']
+
+PM Clique:  ['CHEBI23965_estradiol', 'CHEBI50114_estrogen']
+CT Clique:  ['CHEBI23965_estradiol', 'CHEBI50114_estrogen']
+
+PM Clique:  ['CHEBI6541_losartan', 'CHEBI48433_angiotensin']
+CT Clique:  ['CHEBI48433_angiotensin', 'CHEBI6541_losartan']
+
+PM Clique:  ['CHEBI6541_losartan', 'CHEBI48433_angiotensin']
+CT Clique:  ['CHEBI48433_angiotensin', 'CHEBI6541_losartan']
+
+PM Clique:  ['CHEBI36807_hydrochloride', 'CHEBI77032_bromhexine']
+CT Clique:  ['CHEBI36807_hydrochloride', 'CHEBI77032_bromhexine']
+
+PM Clique:  ['CHEBI36807_hydrochloride', 'CHEBI77032_bromhexine']
+CT Clique:  ['CHEBI36807_hydrochloride', 'CHEBI77032_bromhexine']
+
+PM Clique:  ['CHEBI5801_hydroxychloroquine', 'CHEBI77032_bromhexine']
+CT Clique:  ['CHEBI5801_hydroxychloroquine', 'CHEBI77032_bromhexine']
+
+PM Clique:  ['CHEBI5801_hydroxychloroquine', 'CHEBI77032_bromhexine']
+CT Clique:  ['CHEBI5801_hydroxychloroquine', 'CHEBI77032_bromhexine']
+
+PM Clique:  ['CHEBI39548_atorvastatin', 'CHEBI87631_statin']
+CT Clique:  ['CHEBI87631_statin', 'CHEBI39548_atorvastatin']
+
+PM Clique:  ['CHEBI39548_atorvastatin', 'CHEBI87631_statin']
+CT Clique:  ['CHEBI87631_statin', 'CHEBI39548_atorvastatin']
+
+PM Clique:  ['CHEBI68579_rivaroxaban', 'CHEBI28304_heparin']
+CT Clique:  ['CHEBI28304_heparin', 'CHEBI68579_rivaroxaban']
+
+PM Clique:  ['CHEBI63580_ribavirin', 'CHEBI134722_favipiravir']
+CT Clique:  ['CHEBI63580_ribavirin', 'CHEBI134722_favipiravir']
+
+PM Clique:  ['CHEBI8378_prednisolone', 'CHEBI50858_corticosteroid']
+CT Clique:  ['CHEBI50858_corticosteroid', 'CHEBI8378_prednisolone']
+
+

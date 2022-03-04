@@ -1,0 +1,48 @@
+We may have a winner ... sim values:  3
+PM Clique:  ['CHEBI5801_hydroxychloroquine', 'CHEBI367163_darunavir', 'CHEBI31781_lopinavir', 'CHEBI134722_favipiravir']
+CT Clique:  ['CHEBI5801_hydroxychloroquine', 'CHEBI31781_lopinavir', 'CHEBI45409_ritonavir', 'CHEBI134722_favipiravir']
+
+We may have a winner ... sim values:  3
+PM Clique:  ['CHEBI5801_hydroxychloroquine', 'CHEBI3638_chloroquine', 'CHEBI2955_azithromycin', 'CHEBI50845_doxycycline']
+CT Clique:  ['CHEBI5801_hydroxychloroquine', 'CHEBI2955_azithromycin', 'CHEBI50845_doxycycline', 'CHEBI6078_ivermectin']
+
+
+We may have a winner ... sim values:  3
+PM Clique:  ['CHEBI5801_hydroxychloroquine', 'CHEBI62932_mycophenolate', 'CHEBI2955_azithromycin', 'CHEBI50845_doxycycline']
+CT Clique:  ['CHEBI5801_hydroxychloroquine', 'CHEBI2955_azithromycin', 'CHEBI50845_doxycycline', 'CHEBI6078_ivermectin']
+
+
+We may have a winner ... sim values:  3
+PM Clique:  ['CHEBI5801_hydroxychloroquine', 'CHEBI3638_chloroquine', 'CHEBI2955_azithromycin', 'CHEBI50845_doxycycline']
+CT Clique:  ['CHEBI5801_hydroxychloroquine', 'CHEBI2955_azithromycin', 'CHEBI50845_doxycycline', 'CHEBI68579_rivaroxaban']
+
+We may have a winner ... sim values:  3
+PM Clique:  ['CHEBI5801_hydroxychloroquine', 'CHEBI62932_mycophenolate', 'CHEBI2955_azithromycin', 'CHEBI50845_doxycycline']
+CT Clique:  ['CHEBI5801_hydroxychloroquine', 'CHEBI2955_azithromycin', 'CHEBI50845_doxycycline', 'CHEBI68579_rivaroxaban']
+
+We may have a winner ... sim values:  3
+PM Clique:  ['CHEBI5801_hydroxychloroquine', 'CHEBI7798_oseltamivir', 'CHEBI45409_ritonavir', 'CHEBI134722_favipiravir']
+CT Clique:  ['CHEBI5801_hydroxychloroquine', 'CHEBI31781_lopinavir', 'CHEBI45409_ritonavir', 'CHEBI134722_favipiravir']
+
+We may have a winner ... sim values:  3
+PM Clique:  ['CHEBI5801_hydroxychloroquine', 'CHEBI63580_ribavirin', 'CHEBI45409_ritonavir', 'CHEBI134722_favipiravir']
+CT Clique:  ['CHEBI5801_hydroxychloroquine', 'CHEBI31781_lopinavir', 'CHEBI45409_ritonavir', 'CHEBI134722_favipiravir']
+
+
+
+We may have a winner ... sim values:  3
+PM Clique:  ['CHEBI5801_hydroxychloroquine', 'CHEBI52214_ligand', 'CHEBI31781_lopinavir', 'CHEBI45409_ritonavir']
+CT Clique:  ['CHEBI5801_hydroxychloroquine', 'CHEBI31781_lopinavir', 'CHEBI45409_ritonavir', 'CHEBI134722_favipiravir']
+
+
+
+We may have a winner ... sim values:  3
+PM Clique:  ['CHEBI5801_hydroxychloroquine', 'CHEBI2955_azithromycin', 'CHEBI25106_macrolide', 'CHEBI6078_ivermectin']
+CT Clique:  ['CHEBI5801_hydroxychloroquine', 'CHEBI2955_azithromycin', 'CHEBI50845_doxycycline', 'CHEBI6078_ivermectin']
+
+
+
+We may have a winner ... sim values:  3
+PM Clique:  ['CHEBI5801_hydroxychloroquine', 'CHEBI2955_azithromycin', 'CHEBI6078_ivermectin', 'CHEBI45409_ritonavir']
+CT Clique:  ['CHEBI5801_hydroxychloroquine', 'CHEBI2955_azithromycin', 'CHEBI50845_doxycycline', 'CHEBI6078_ivermectin']
+

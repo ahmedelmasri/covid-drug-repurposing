@@ -1,0 +1,1 @@
+CHEBI16737_creatinine|CHEBI24996_lactate|CHEBI132943_aspartate|CHEBI16199_urea|CHEBI17234_glucose|
