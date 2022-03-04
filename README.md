@@ -9,5 +9,5 @@ The Clique Similarity Algorithm is done here: clique similarity algorithm
 
 Ootology: We used [chebi-light.obo](http://purl.obolibrary.org/obo/chebi/chebi_lite.obo). 
 
-The original file to the MEDLINE Abstracts is (403.3MB) of data. Too big to be uploaded here but here is the >> [link](https://drive.google.com/file/d/1xcwUjEbuTVBHjZJ66yfxr_LZr9qFZh4L/view?usp=sharing) >>  to download it.
+The original file to the MEDLINE Abstracts is (403.3MB) of data. Too big to be uploaded here but here is the [>> link  >>  to download it.](https://drive.google.com/file/d/1xcwUjEbuTVBHjZJ66yfxr_LZr9qFZh4L/view?usp=sharing).
 
